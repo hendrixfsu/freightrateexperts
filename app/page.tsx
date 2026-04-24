@@ -40,7 +40,7 @@ export default function FreightRateExpertsLandingPage() {
           />
 
           <a
-            href="mailto:info@freightrateexperts.com"
+            href="mailto:freightrateexperts@gmail.com"
             className="rounded-2xl border border-white/15 px-4 py-2 text-sm font-medium text-slate-100 transition hover:bg-white/10"
           >
             Contact
@@ -72,7 +72,7 @@ export default function FreightRateExpertsLandingPage() {
 
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href="mailto:info@freightrateexperts.com?subject=Freight%20Rate%20Review"
+                href="mailto:freightrateexperts@gmail.com?subject=Freight%20Rate%20Review"
                 className="rounded-2xl bg-emerald-400 px-5 py-3 font-semibold text-slate-950 shadow-lg shadow-emerald-500/20 transition hover:-translate-y-0.5"
               >
                 Start a Rate Review
@@ -191,7 +191,7 @@ export default function FreightRateExpertsLandingPage() {
 
               <div className="mt-6 md:mt-0">
                 <a
-                  href="mailto:info@freightrateexperts.com?subject=Freight%20Rate%20Experts%20Inquiry"
+                  href="mailto:freightrateexperts@gmail.com?subject=Freight%20Rate%20Experts%20Inquiry"
                   className="inline-flex rounded-2xl bg-emerald-400 px-5 py-3 font-semibold text-slate-950 transition hover:-translate-y-0.5"
                 >
                   Email Us
@@ -205,7 +205,7 @@ export default function FreightRateExpertsLandingPage() {
       <footer className="border-t border-white/10 bg-slate-950">
         <div className="mx-auto flex max-w-6xl flex-col gap-3 px-6 py-8 text-sm text-slate-400 md:flex-row md:items-center md:justify-between">
           <div>© 2026 Freight Rate Experts</div>
-          <div>info@freightrateexperts.com</div>
+          <div>freightrateexperts@gmail.com</div>
         </div>
       </footer>
     </div>
